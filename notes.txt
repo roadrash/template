@@ -1,3 +1,4 @@
 
 C:\Users\<username>\.dnx\bin;C:\Program Files (x86)\Microsoft VS Code\bin
 
+updated
